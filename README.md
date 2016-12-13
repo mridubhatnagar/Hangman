@@ -6,5 +6,7 @@
 
 
 1) Run train_data_set.py
+
 2) Once the data gets trained and different files based on word      length are created.
+
 3) Run play.py
